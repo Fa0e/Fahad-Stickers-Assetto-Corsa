@@ -1,0 +1,23 @@
+Fahad Stickers - طريقة التثبيت
+==============================
+
+المتطلبات:
+- Assetto Corsa
+- Custom Shaders Patch (CSP)
+
+التثبيت:
+1) عن طريق Content Manager: اسحب ملف FahadStickers.zip داخل نافذة Content Manager واضغط Install.
+   أو
+2) يدوياً: فك ضغط FahadStickers.zip داخل مجلد اللعبة:
+   Steam\steamapps\common\assettocorsa
+   (لازم يصير المسار: assettocorsa\apps\lua\FahadStickers)
+
+الاستخدام:
+- ادخل اللعبة وافتح تطبيق Fahad Stickers من شريط التطبيقات على اليمين.
+- الصق رابط صورة مباشر (PNG أو JPG) واضغط Add sticker.
+- اضغط على السيارة بالماوس لتحديد مكان الاستكر، وعجلة الماوس للتكبير والتصغير.
+- عدّل الحجم والدوران والمكان من الأشرطة داخل التطبيق.
+
+ملاحظة: الاستكرات تظهر عندك فقط ولا يراها اللاعبون الآخرون أونلاين.
+
+(c) Fahad. جميع الحقوق محفوظة.
